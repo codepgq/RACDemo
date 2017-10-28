@@ -1,0 +1,4 @@
+target 'RAC' do
+use_frameworks!
+pod 'ReactiveObjC'
+end
